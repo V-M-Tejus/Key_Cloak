@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+venv/
+
+# Logs
+logs/
+*.log
+
+# OS and editor files
+.DS_Store
+*.swp
+.idea/
+.vscode/

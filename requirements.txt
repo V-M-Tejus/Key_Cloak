@@ -1,0 +1,8 @@
+django
+djangorestframework
+pillow
+twilio
+django-environ
+django-cors-headers
+dotenv
+python-dotenv
